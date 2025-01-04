@@ -1,0 +1,7 @@
+streamlit==1.25.0  # Version récente de Streamlit
+pandas==2.1.1      # Pour manipuler les DataFrames
+numpy==1.25.2      # Pour les calculs numériques
+xgboost==1.7.6     # Pour l'entraînement et les prédictions avec XGBoost
+scikit-learn==1.3.0  # Pour le prétraitement et les métriques
+plotly==5.16.1     # Pour les graphiques interactifs
+matplotlib==3.8.0  # Pour le tracé des graphiques statiques
